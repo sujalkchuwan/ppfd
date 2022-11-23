@@ -1,3 +1,3 @@
-<?php include_once("INDEX.HTML"); ?>
+<?php include_once("leave.html"); ?>
 
 
